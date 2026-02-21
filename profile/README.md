@@ -1,6 +1,7 @@
+```markdown
 <div align="center">
 
-<img src="logo.png" alt="SpoitHub Logo" width="180" style="margin-bottom: 20px;">
+<img src="../../media/logo.png" alt="SpoitHub Logo" width="180" style="margin-bottom: 20px;">
 
 # 🏅 SpoitHub — Delux
 
@@ -280,16 +281,7 @@ delux/
 
 Проект распространяется под лицензией [MIT](LICENSE). Подробности смотрите в файле `LICENSE`.
 
----
-
-## 📞 Контакты и Поддержка
-
-- **Организация GitHub:** [@SpoitHub](https://github.com/SpoitHub)
-- **Email:** [hello@spoithub.kz](mailto:hello@spoithub.kz) *(замените на реальный)*
-- **Telegram:** [@spoithub_support](https://t.me/spoithub_support) *(замените на реальный)*
-
----
-
 <div align="center">
   <sub>Built with ❤️ by SpoitHub Team · Almaty, Kazakhstan</sub>
 </div>
+```
