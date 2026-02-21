@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../../media/logo.png" alt="SpoitHub Logo" width="180" style="margin-bottom: 20px;">
+<img src="logo.png" alt="SpoitHub Logo" width="180" style="margin-bottom: 20px;">
 
 # 🏅 SpoitHub — Delux
 
