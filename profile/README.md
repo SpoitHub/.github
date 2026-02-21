@@ -1,7 +1,8 @@
 
 <div align="center">
 
-<img src="../../media/logo.png" alt="SpoitHub Logo" width="180" style="margin-bottom: 20px;">
+<img src="https://raw.githubusercontent.com/SpoitHub/.github/main/media/logo.png" alt="SpoitHub Logo" width="180" style="margin-bottom: 20px;">
+
 
 # 🏅 SpoitHub — Delux
 
