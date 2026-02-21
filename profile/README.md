@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="../../media/logo.png" alt="SpoitHub Logo" width="180" style="margin-bottom: 20px;">
@@ -294,4 +293,3 @@ delux/
 <div align="center">
   <sub>Built with ❤️ by SpoitHub Team · Almaty, Kazakhstan</sub>
 </div>
-```
